@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi , I'm Paritosh
 
-<!--
-**paritoshkumar169/paritoshkumar169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 **Portfolio:** [portfolio-three-lovat-66.vercel.app](https://portfolio-three-lovat-66.vercel.app/)
 
-Here are some ideas to get you started:
+```txt
+paritoshkumar
+────────────────────────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+OS:        macOS (Intel) x86_64
+Shell:     zsh 5.9
+Education: Electrical & Electronics Engineering
+
+Cloud:     AWS, Render, Vercel
+Blockchain: Solana, Ethereum
+
+Frameworks: Anchor, Next.js, ReactJS, TailwindCSS, Node.js, Express.js, Hardhat
+Languages:  Rust, TypeScript, JavaScript, Python
+Databases:  PostgreSQL, Supabase
+
+────────────────────────────
+```
