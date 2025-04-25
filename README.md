@@ -2,8 +2,6 @@
 
 🔗 **Portfolio:** [portfolio-three-lovat-66.vercel.app](https://portfolio-three-lovat-66.vercel.app/)
 
-   **Email:** [paritoshkumar169@gmail.com]
-
 ```bash
 paritoshkumar
 ────────────────────────────
